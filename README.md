@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="350" height="80%" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 
-- 🔭 I’m currently working at **HSBC, Pune**
+- 🔭 I’m currently working at **HSBC, Pune** as **Trainee Software Engineer**
 
 - 🌱 I’m currently working on **Spring boot** & **REST APIs**
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Core Java, Spring, Mysql, Spring Boot**
 
-- 📫 How to reach me **vineetraj14@gmail.com**
+- 📫 Reach me **vineetraj14@gmail.com**
 
 - 📄 Download my Resume <a href="https://drive.google.com/file/d/1FpGtmg6idmx3oTEin_Wzp3mrKb9Yg1Em/view?usp=sharing">**Resume** </a>
 
@@ -31,7 +31,7 @@
 <a href="https://twitter.com/@DaKnightMayor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@DaKnightMayor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vineetraj14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetraj14" height="30" width="40" /></a>
 <a href="https://leetcode.com/DaKnightMayor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DaKnightMayor" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/VINEET_RAJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@VINEET_RAJ" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/DaKnightMayor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@DaKnightMayor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
